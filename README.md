@@ -1,4 +1,4 @@
-![logo](weaver.png  "这是CSDN的图标")
+<div align=center><img width="150" height="150" src="weaver.png"/></div>
 # Weaver（编织者）
 ## 设计目的
 - 用于执行复杂的异步任务，编制后端耗时较长任务
