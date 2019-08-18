@@ -1,4 +1,4 @@
-![logo](http://http://pic1.win4000.com/pic/3/19/1bb11411487.jpg  "这是CSDN的图标")
+![logo](weaver.png  "这是CSDN的图标")
 # Weaver（编织者）
 ## 设计目的
 - 用于执行复杂的异步任务，编制后端耗时较长任务
