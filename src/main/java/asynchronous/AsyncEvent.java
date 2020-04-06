@@ -167,6 +167,14 @@ public class AsyncEvent {
 
     }
 
+    public boolean isDone() {
+        return  this.status == EventStatus.COMPLETED;
+    }
+
+    public boolean isFailed() {
+        return this.status == EventStatus.FAILED;
+    }
+
     /**
      * 事件状态
      *

@@ -64,7 +64,6 @@ public class AsyncTask {
         this.event.setStartTime(start);
         try {
             for(int i = this.getEvent().getCurrentStep(); i< this.getEvent().getTotalSteps(); i++){
-                event.addStep();//当前步加一
                 TaskStep taskStep = this.steps.get(i);
                 if(taskStep.isRefrenceInput()){ //装填需要的参数
                     if (!taskStep.configParam(this.outputs)){
@@ -74,10 +73,10 @@ public class AsyncTask {
                     }
                 }
                 obj = taskStep.execute();//依次执行每一步，如果不抛出异常则执行成功，否则直接中断
+                event.addStep();//当前步加一
                 if(taskStep.isHasOutput()){  //输出存放到outputs
                     this.outputs.put(taskStep.getOutputName(), obj);
                 }
-
             }
 
             if(this.event.getCurrentStep() == this.event.getTotalSteps()){

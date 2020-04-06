@@ -46,11 +46,12 @@ public class AsyncWorkThreadPool {
      */
     public boolean addTask(AsyncTask task) {
 
-        guranteAllThreadUp();//检查task是否所有task都启动
+        guranteAllThreadUp();//检查thread是否所有thread都启动
 
         if(this.tasks.offer(task)){
             logger.info("Add async task to queue complete,relate event information:"
                     + task.getEvent().toString());
+            task.getEvent().setStatus(AsyncEvent.EventStatus.PENDING);
             this.eventMananger.addEvent(task.getEvent());
             return true;
         }

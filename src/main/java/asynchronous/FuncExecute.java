@@ -5,5 +5,5 @@ package asynchronous;
  */
 @FunctionalInterface
 public interface FuncExecute {
-    Object execute(Object[] params);
+    Object execute(Object[] params) throws TaskExecuteException;
 }
