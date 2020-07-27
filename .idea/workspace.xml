@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71da9dbf-2164-49f6-9f57-c5093b214617" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/asynchronous/AsyncEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/asynchronous/AsyncEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/asynchronous/AsyncTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/asynchronous/AsyncTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/asynchronous/AsyncWorkThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/asynchronous/AsyncWorkThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/asynchronous/FuncExecute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/asynchronous/FuncExecute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/asynchronous/FuncExecute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/asynchronous/FuncExecute.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,7 +271,8 @@
       <workItem from="1566117549001" duration="154000" />
       <workItem from="1566309177586" duration="194000" />
       <workItem from="1566309476048" duration="20000" />
-      <workItem from="1586145666090" duration="5165000" />
+      <workItem from="1586145666090" duration="5784000" />
+      <workItem from="1586327095128" duration="611000" />
     </task>
     <servers />
   </component>
@@ -288,26 +280,31 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586147704766">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="651" y="170" key="FileChooserDialogImpl" timestamp="1586329206592">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="651" y="170" key="FileChooserDialogImpl/-1366.133.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586329206592" />
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586147704766" />
-    <state width="1323" height="214" key="GridCell.Tab.0.bottom" timestamp="1586150842485">
+    <state width="1323" height="214" key="GridCell.Tab.0.bottom" timestamp="1586174824890">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586150842485" />
-    <state width="1323" height="214" key="GridCell.Tab.0.center" timestamp="1586150842485">
+    <state width="1323" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586174824890" />
+    <state width="1323" height="214" key="GridCell.Tab.0.center" timestamp="1586174824890">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586150842485" />
-    <state width="1323" height="214" key="GridCell.Tab.0.left" timestamp="1586150842485">
+    <state width="1323" height="214" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586174824890" />
+    <state width="1323" height="214" key="GridCell.Tab.0.left" timestamp="1586174824889">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586150842485" />
-    <state width="1323" height="214" key="GridCell.Tab.0.right" timestamp="1586150842485">
+    <state width="1323" height="214" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586174824889" />
+    <state width="1323" height="214" key="GridCell.Tab.0.right" timestamp="1586174824890">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586150842485" />
+    <state width="1323" height="214" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586174824890" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586327090624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/-1366.133.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586327090624" />
     <state x="359" y="97" width="647" height="534" key="find.popup" timestamp="1586149630236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
