@@ -9,7 +9,7 @@ import org.apache.log4j.Logger;
 /**
  * 工作线程,用于处理耗时较长的任务
  *
- * @author niulf
+ * @author wanglianping
  *
  */
 public class WorkThread implements Runnable {

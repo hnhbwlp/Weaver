@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="71da9dbf-2164-49f6-9f57-c5093b214617" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/asynchronous/AsyncEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/asynchronous/AsyncEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/asynchronous/WorkThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/asynchronous/WorkThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,6 +275,7 @@
       <workItem from="1566309476048" duration="20000" />
       <workItem from="1586145666090" duration="5784000" />
       <workItem from="1586327095128" duration="611000" />
+      <workItem from="1595815911590" duration="126000" />
     </task>
     <servers />
   </component>
@@ -280,39 +283,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="651" y="170" key="FileChooserDialogImpl" timestamp="1586329206592">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1595815910836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="651" y="170" key="FileChooserDialogImpl/-1366.133.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586329206592" />
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586147704766" />
-    <state width="1323" height="214" key="GridCell.Tab.0.bottom" timestamp="1586174824890">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586174824890" />
-    <state width="1323" height="214" key="GridCell.Tab.0.center" timestamp="1586174824890">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586174824890" />
-    <state width="1323" height="214" key="GridCell.Tab.0.left" timestamp="1586174824889">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586174824889" />
-    <state width="1323" height="214" key="GridCell.Tab.0.right" timestamp="1586174824890">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586174824890" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586327090624">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595815910836" />
+    <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1595816065532">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/-1366.133.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586327090624" />
-    <state x="359" y="97" width="647" height="534" key="find.popup" timestamp="1586149630236">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="359" y="97" width="647" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1586149630236" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586145844509">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586145844509" />
+    <state x="636" y="253" width="647" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595816065532" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

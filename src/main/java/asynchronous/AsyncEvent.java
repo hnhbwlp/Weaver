@@ -178,7 +178,7 @@ public class AsyncEvent {
     /**
      * 事件状态
      *
-     * @author niulf
+     * @author wanglianping
      *
      */
     public enum EventStatus {
@@ -206,7 +206,7 @@ public class AsyncEvent {
     /**
      * 事件类型
      *
-     * @author niulf
+     * @author wanglianping
      *
      */
     public enum EventType {
